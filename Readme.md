@@ -1,6 +1,11 @@
 # LaTeX Template for Scientific Theses ![Build Status](https://github.com/latextemplates/scientific-thesis-template/workflows/Build%20with%20lualatex/badge.svg)
 
+
+Why every scientist must know latek. a no-brainer.
+
 > This template is a general template for scientific theses.
+
+LaTeX is too hard to spell and (for reasons to be explained later) difficult to pronounce, and so for the duration of this document, it will be referred to as "latek", with no quotation marks. 
 
 Currently, it is the unofficial LaTeX template for Master, Bachelor, Diploma, and Student Theses.
 
