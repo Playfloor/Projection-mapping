@@ -13,6 +13,8 @@ See [docs/](docs/) or <http://latextemplates.github.io/scientific-thesis-templat
 
 # very important
 
+"first you must know latek, then you must change it"
+
 pprerequisites. in order to understand this document, it is expected that the reader (traveller, voyager, navigator, explorer, listener) be at least somewhat familiar with the following nomenclature:
 
 
